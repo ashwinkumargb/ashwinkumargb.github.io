@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ashwinkumargb.github.io/al-folio/sitemap.xml
