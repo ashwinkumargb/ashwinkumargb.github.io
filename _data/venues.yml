@@ -7,3 +7,21 @@
 
 "Vision":
   color: "#009f36"
+
+"Image Downsizing":
+  color: "#009f36"
+
+"Vision-Language":
+  color: "#009f36"
+
+"Image Synthesis":
+  color: "#009f36"
+
+"Segmentation":
+  color: "#6a009f"
+
+"Object Detection":
+  color: "#009f36"
+
+"Quantitative MRI":
+  color: "#6a009f"
