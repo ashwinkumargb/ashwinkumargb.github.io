@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m driven by the potential of artificial intelligence to transform disease diagnosis and prediction—enabling earlier, more accurate, and personalized care, especially for neurological disorders. After navigating the subjectivity of clinical pathways following multiple concussions, I’m committed to building AI tools that bring greater objectivity and transparency to medicine.
+<!-- After navigating the subjectivity of clinical pathways following multiple concussions,  -->
+
+I’m driven by the potential of artificial intelligence to transform disease diagnosis and prediction—enabling earlier, more accurate, and personalized care, especially for neurological disorders. I’m committed to building AI tools that bring greater objectivity and transparency to medicine.
 
 I am a PhD candidate in Stanford's Biomedical Physics program advised by <a href="https://profiles.stanford.edu/greg-zaharchuk">Greg Zaharchuk</a> and <a href="https://profiles.stanford.edu/akshay-chaudhari">Akshay Chaudhari</a>. My research focuses on developing artificial intelligence methods for medical image acquisition and analysis. In particular, I'm interested in multimodal representation learning for medical imaging. I am grateful to be supported by the <a href="https://knight-hennessy.stanford.edu/people/ashwin-kumar">Knight-Hennessy Fellowship</a> and the <a href="https://www.tbp.org/other/Fellows/2022FellowsReleaseWeb.pdf">Tau Beta Pi Fellowship</a>.
 
